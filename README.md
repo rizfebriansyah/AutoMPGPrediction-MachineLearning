@@ -8,3 +8,5 @@ For this particular problem, I'll employ the deep learning work process. I'll be
 Due to the fact that it is a regression issue, I did not use accuracy. We frequently use error in regression problems to evaluate the effectiveness of the model.
 
 Basic libraries like Numpy, Pandas, Matplotlib, Seaborn, and Tensorflow will be imported.
+
+Do run the the .ipynb file in Jupyter Notebook. 
